@@ -19,3 +19,5 @@ scikit-learn
 pandas
 
 Streamlit
+
+Numpy
